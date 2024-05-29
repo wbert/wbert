@@ -3,7 +3,9 @@
 ![](https://komarev.com/ghpvc/?username=wbert&color=blueviolet&label=My+Visitors)
 - 👀 I’m interested in new tech.
 - 🌱 I’m currently learning anything that I don't know.
-<a><img src="https://icons8.com/icon/BUnExfsRs3CW/vuejs"></a>
+
+  ![Vue.js Icon](https://img.icons8.com/color/48/000000/vuejs.png)
+
   
 
 <i>Follow me around the web:</i><br>
