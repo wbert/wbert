@@ -84,7 +84,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" alt="Neovim" width="40" height="40"/> 
 </a>
 <a href="https://github.com/tmux/tmux" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Tmux_logo.svg/2560px-Tmux_logo.svg.png" alt="Tmux" width="40" height="40"/> 
+  <img src="https://seeklogo.com/images/T/tmux-logo-E71523388A-seeklogo.com.png" alt="Tmux" width="40" height="40"/> 
 </a>
 
 
