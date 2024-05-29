@@ -40,6 +40,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="40" height="40"/> 
 </p>
 
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dkeithdj&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <i>Follow me around the web:</i><br>
 
