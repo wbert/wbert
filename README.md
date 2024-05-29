@@ -88,9 +88,12 @@
 <a href="https://github.com/tmux/tmux" target="_blank" rel="noreferrer"> 
   <img src="https://seeklogo.com/images/T/tmux-logo-E71523388A-seeklogo.com.png" alt="Tmux" width="40" height="40"/> 
 </a>
-
-
-  
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
+</a>
+<a href="https://bitbucket.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="40" height="40"/> 
+</a>
 </p>
 
 <i>Follow me around the web:</i><br>
