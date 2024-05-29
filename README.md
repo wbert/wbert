@@ -97,13 +97,14 @@
 <a href="https://bitbucket.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="40" height="40"/> 
 </a>
-  <style>
+  
+</p>
+<style>
   /* Remove underline from links */
   p.align-center a {
     text-decoration: none;
   }
 </style>
-</p>
 
 <i>Follow me around the web:</i><br>
 
