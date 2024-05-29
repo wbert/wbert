@@ -100,8 +100,7 @@
   
 </p>
 <style>
-  /* Remove underline from links */
-  p.align-center a {
+  p.center a {
     text-decoration: none;
   }
 </style>
