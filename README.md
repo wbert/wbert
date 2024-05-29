@@ -41,7 +41,7 @@
 </p>
 
 <h2>Stats</h2>
-![](https://github-readme-stats.vercel.app/api?username=wbert)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wbert)](https://github.com/wbert/github-readme-stats)
 
 <i>Follow me around the web:</i><br>
 
