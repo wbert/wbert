@@ -76,7 +76,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> 
 </a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+ <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> 
 </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
@@ -110,11 +110,5 @@
 <a href="https://open.spotify.com/user/4xsrtauclcip8cf8fufvfe0d7" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://devjry.web.app/" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
-<br>
-<style>
-  p.center a {
-    text-decoration: none;
-  }
-</style>
 
 
