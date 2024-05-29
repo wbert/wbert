@@ -4,7 +4,7 @@
 - 👀 I’m interested in new tech.
 - 🌱 I’m currently learning anything that I don't know.
 
-<h2> Technologies I have used</h2>
+<h2>Tech Stack</h2>
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
@@ -40,7 +40,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="40" height="40"/> 
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wbert)](https://github.com/wbert/github-readme-stats)
+<h2>Stats</h2>
+![](https://github-readme-stats.vercel.app/api?username=wbert)]
 
 <i>Follow me around the web:</i><br>
 
