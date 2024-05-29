@@ -3,7 +3,14 @@
 ![](https://komarev.com/ghpvc/?username=wbert&color=blueviolet&label=My+Visitors)
 - 👀 I’m interested in new tech.
 - 🌱 I’m currently learning anything that I don't know.
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
+  </a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-   wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+  </a> 
+  
+</p>
 
 <i>Follow me around the web:</i><br>
 
