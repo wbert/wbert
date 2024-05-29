@@ -99,11 +99,7 @@
 </a>
   
 </p>
-<style>
-  p.center a {
-    text-decoration: none;
-  }
-</style>
+
 
 <i>Follow me around the web:</i><br>
 
@@ -115,5 +111,10 @@
 <a href="https://devjry.web.app/" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 <br>
+<style>
+  p.center a {
+    text-decoration: none;
+  }
+</style>
 
 
