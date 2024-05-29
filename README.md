@@ -4,7 +4,8 @@
 - 👀 I’m interested in new tech.
 - 🌱 I’m currently learning anything that I don't know.
 
-  ![Vue.js Icon](https://img.icons8.com/color/48/000000/vuejs.png)
+<a href="https://discord.gg/MM4Phpn4ja"><img src="https://img.icons8.com/color/48/000000/vuejs.png" alt="Discord"></a>
+![Vue.js Icon](https://img.icons8.com/color/48/000000/vuejs.png)
 
   
 
