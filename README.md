@@ -41,7 +41,9 @@
 </p>
 
 <h2>Stats</h2>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wbert)](https://github.com/wbert/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wbert)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <i>Follow me around the web:</i><br>
 
