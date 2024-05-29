@@ -78,7 +78,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/> 
 </a>
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" alt="Supabase" width="40" height="40"/> 
+  <img src="https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/supabase-TAiY.png" alt="Supabase" width="40" height="40"/> 
 </a>
 <a href="https://neovim.io/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" alt="Neovim" width="40" height="40"/> 
